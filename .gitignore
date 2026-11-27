@@ -1,0 +1,16 @@
+# YOLO model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Training outputs
+runs/
+
+# Environment variables
+.env
